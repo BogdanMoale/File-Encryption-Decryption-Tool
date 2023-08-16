@@ -11,8 +11,8 @@ This project is a simple file encryption and decryption tool developed in C++ th
 - Educational and practical example for understanding encryption concepts and C++ programming.
 
 ## Requirements
--C++ compiler.
--OpenSSL library (for AES encryption).
+* C++ compiler.
+* OpenSSL library (for AES encryption).
 
 ## Getting Started
 1. Clone the repository to your local machine.
